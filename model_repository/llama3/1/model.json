@@ -1,0 +1,8 @@
+{
+  "model": "/local_model",
+  "disable_log_requests": true,
+  "gpu_memory_utilization": 0.85,
+  "max_model_len": 8192,
+  "dtype": "auto",
+  "enforce_eager": false
+}
